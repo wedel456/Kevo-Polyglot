@@ -1,0 +1,17 @@
+{
+    "name": "Kevo",
+    "docs": "https://www.universal-devices.com/",
+    "type": "python",
+    "executable": "polykevo.py",
+    "description": "Connect Kwikset kevo gateway system to the ISY994.",
+    "notice": "\"Kevo smart lock\" is a trademark owned by kwikset., see www.kwikset.com/kevo/smart-lock for more information. This Node Server is neither developed by nor endorsed by the kwikset organization."
+    "credits": [
+        {
+            "title": "Kevo connection to ISY",
+            "author": "Justin Wedel",
+            "version": ".1",
+            "date": "11/15/2018",
+            "source": "https://github.com/wedel456/Kevo-Polyglot",
+            "license": "https://raw.githubusercontent.com/jwedel/Kevo-Polyglot/LICENSE"
+}
+}
